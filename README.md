@@ -1,4 +1,8 @@
 # OPCUA Machine Base #
+
+## Contributors
+- [Michael List](https://github.com/orgs/protolab-rosenheim/people/Michael-List)
+
 ## Create .exe from project ##
 * Load venv
 * cd in your project directory
